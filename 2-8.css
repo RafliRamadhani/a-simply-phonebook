@@ -1,0 +1,42 @@
+// 2.  -Bagian Bagian syntax dari CSS
+/* 
+Selector Tag = memilih elemen berdasarkan tag       p {}
+Selectior Class = memilih elemen berdasarkan class  .test{}
+Selector ID = memilih elemen berdasarkan Id         #test{}
+Selector Atribut = memilih elmemen berdasarkan      input[type=text]{}
+                    Atribut
+Selector Universal = selektor yang digunakan untuk  *{}
+                        menyeleksi semua elemen 
+                        pada jangkauan tertentu
+*/
+
+//3.  -CSS Specificity
+/* Menentukan seberapa spesifik sebuah aturan pada CSS , jika ada 2 
+    atau lebih aturan pada sebuah elemen yang sama , maka aturan paling 
+    spesifiklah yang akan dipakai oleh browser */
+
+//4.  -Responsive Web
+/* sebuah metode atau pendekatan sistem web desain yang bertujuan
+    memberikan pengalaman berselancar yang optimal dalam berbagai 
+    perangkat, baikdi Handphone atau Komputer */
+
+//5.  -CSS Media Queries
+/* Fitur CSS 3 yang memungkinkan rendering konten ber adaptasi
+    dengan berbagai kondisi seperti resolusi layar . */
+
+//6.  -CSS Flexbox & Grid
+/* Sama sama berfungsi untuk mengatur tampilan sebuah halaman
+    web menjadi lebih ter-struktur dan rapih 
+
+    Flexbox : hanya dapat mengatur arah pembagian dimensi tampilan 
+                hanya secara horizontal atau secara vertikal saja
+    Grid    : dapat mengatur arah dimensi tampilan secara horizontal 
+                dan vertikal */
+
+//7.  -Bootstrap
+/* kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang
+     situs web dan aplikasi web. Berisi template desain berbasis HTML
+     dan CSS untuk tipografi , formulir, tombol, navigasi, dan komponen
+     antarmuka lainya, serta juga ada ekstensi opsional JavaScript */
+
+//8  -Media Queries, Flexbox dan Grid Menggunakan Bootstrap
